@@ -1,2 +1,2 @@
-# Nexus-Spatium
+# Neura-Spatium
 Deep Learning Project with Pytorch
